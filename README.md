@@ -1,8 +1,10 @@
+> **이전 완료:** 이 프로젝트는 [ray-math/labs](https://github.com/ray-math/labs) 저장소의 `motion/`로 통합했습니다. 앞으로는 [새 운동 실험실](https://ray-math.github.io/labs/motion/)을 이용해 주세요. 이 저장소는 기존 링크의 이동 안내와 변경 이력 보관을 위해 남겨 둡니다.
+
 # Motion Lab · 놀이기구 데이터 진로탐구
 
 스마트폰(phyphox)으로 측정한 놀이기구 운동 데이터를 올리면, 진로별 탐구 주제 21개에 맞춰 그래프와 값을 계산하고 결과보고서를 내려받을 수 있는 웹 도구입니다.
 
-**바로 쓰기:** https://ray-math.github.io/motion-lab/
+**바로 쓰기:** https://ray-math.github.io/labs/motion/
 
 처음 열면 에버랜드 모니모러쉬 실측 자료(2026-10-31 10:03)와 그 시각의 시간별 날씨가 보입니다. 내 파일을 올리면 내 데이터로 바뀝니다.
 
